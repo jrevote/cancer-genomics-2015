@@ -13,10 +13,6 @@
 [submodule "orchestration"]
 	path = orchestration
 	url = https://github.com/BPA-CSIRO-Workshops/btp-orchestration.git
-[submodule "070_cnv"]
-	path = 070_cnv
-	url = https://github.com/BPA-CSIRO-Workshops/btp-module-cancer-cnv.git
-
 [submodule "080_cnv"]
 	path = 080_cnv
-	url = git@github.com:tsonika/cancer_cnv.git
+	url = https://github.com/tsonika/cancer_cnv.git
