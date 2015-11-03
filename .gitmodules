@@ -17,3 +17,6 @@
 [submodule "080_cnv"]
 	path = 080_cnv
 	url = https://github.com/tsonika/cancer_cnv.git
+[submodule "090_sv"]
+	path = 090_sv
+	url = git@github.com:tsonika/cancer_sv
