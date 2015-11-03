@@ -20,3 +20,6 @@
 [submodule "090_sv"]
 	path = 090_sv
 	url = git@github.com:tsonika/cancer_sv
+[submodule "091_somatic"]
+	path = 091_somatic
+	url = git@github.com:tsonika/cancer_somatic_analysis.git
