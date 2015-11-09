@@ -6,7 +6,7 @@
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-ngs-qc.git
 [submodule "060_alignment"]
 	path = 060_alignment
-	url = https://github.com/tsonika/bwa_alignmen.git
+	url = https://github.com/tsonika/bwa_alignment.git
 [submodule "905_post-workshop"]
 	path = 905_post-workshop
 	url = https://github.com/BPA-CSIRO-Workshops/btp-module-nectar.git
