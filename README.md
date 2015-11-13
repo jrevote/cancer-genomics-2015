@@ -13,7 +13,7 @@ Table of Contents
 Homepage and PDFs
 =================
 You can access the homepage, and up-to-date PDFs, for this project at
-http://bpa-csiro-workshops.github.io/btp-workshop-ngs
+https://github.com/tsonika/cancer-genomics-2015
 
 Purpose
 =======
@@ -22,7 +22,7 @@ consistently styled handout documents for use in hands-on bioinformatics
 training workshops.
 
 You can find full details of what this repository is all about how to use it at:
-http://BPA-CSIRO-Workshops.github.io/handout-template/
+https://github.com/tsonika/cancer-genomics-2015
 
 Building PDFs from LaTeX Source
 ===============================
