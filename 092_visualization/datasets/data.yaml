@@ -1,0 +1,21 @@
+btp::modules:
+  visualization:
+    dirs:
+      - 'visualization'
+    data:
+      circos.R: 
+        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        targets: 
+          - 'visualization/circos.R'
+      delly.somatic.vcf: 
+        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        targets: 
+          - 'visualization/delly.somatic.vcf'
+      mutect.somatic.vcf: 
+        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        targets: 
+          - 'visualization/mutect.somatic.vcf'
+      scones.somatic.tsv: 
+        source: 'https://s3-ap-southeast-2.amazonaws.com/cancer-data-visualization'
+        targets: 
+          - 'visualization/scones.somatic.tsv'
